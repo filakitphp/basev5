@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## 4.6.2 - 2026-01-30
+
+### What's Changed
+
+* chore(deps-dev): bump axios from 1.13.3 to 1.13.4 in the actions-deps group by @dependabot[bot] in https://github.com/filakitphp/basev4/pull/21
+* chore(deps): bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/filakitphp/basev4/pull/22
+* chore(deps-dev): bump barryvdh/laravel-debugbar from 4.0.3 to 4.0.5 in the actions-deps group by @dependabot[bot] in https://github.com/filakitphp/basev4/pull/23
+
+**Full Changelog**: https://github.com/filakitphp/basev4/compare/4.6.1...4.6.2
+
 ## 4.6.1 - 2026-01-28
 
 ### What's Changed
