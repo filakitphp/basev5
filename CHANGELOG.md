@@ -2,10 +2,6 @@
 
 All notable changes to this project will be documented in this file.
 
-## 4.6.3 - 2026-01-30
-
-**Full Changelog**: https://github.com/filakitphp/basev4/compare/4.6.2...4.6.3
-
 ## 4.6.2 - 2026-01-30
 
 ### What's Changed
