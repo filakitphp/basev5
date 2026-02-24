@@ -1,20 +1,20 @@
 <div class="filament-hidden">
 
-![FilaKit](https://raw.githubusercontent.com/filakitphp/basev4/main/art/filakitphp-basev4.png)
+![FilaKit](https://raw.githubusercontent.com/filakitphp/basev5/main/art/filakitphp-basev5.png)
 
 </div>
 
-# FilaKit Start Kit Filament 4.x and Laravel 12.x
+# FilaKit Start Kit Filament 5.x and Laravel 12.x
 
 ## About FilaKit
 
-FilaKit is a robust starter kit built on Laravel 12.x and Filament 4.x, designed to accelerate the development of modern
+FilaKit is a robust starter kit built on Laravel 12.x and Filament 5.x, designed to accelerate the development of modern
 web applications with a ready-to-use panel structure.
 
 ## Features
 
 - **Laravel 12.x** - The latest version of the most elegant PHP framework
-- **Filament 4.x** - Powerful and flexible admin framework
+- **Filament 5.x** - Powerful and flexible admin framework
 - **Panel Structure** - Includes three pre-configured panels:
     - Admin Panel (`/admin`) - For authenticated users
 - **Environment Configuration** - Centralized configuration through the `config/filakit.php` file
@@ -29,7 +29,7 @@ web applications with a ready-to-use panel structure.
 
 Clone the repository
 ``` bash
-laravel new my-app --using=filakitphp/basev4 --database=mysql
+laravel new my-app --using=filakitphp/basev5 --database=mysql
 ```
 
 ###  Easy Installation

@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "filakitphp/basev4",
+    "name": "filakitphp/basev5",
     "type": "project",
     "description": "The skeleton application for the FilamentPHP.",
     "keywords": [
@@ -16,10 +16,10 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "filament/filament": "^4.5",
+        "filament/filament": "^5.0",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
-        "livewire/livewire": "^3.7"
+        "livewire/livewire": "^4.0"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^4.0",
