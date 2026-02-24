@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 4.6.4 - 2026-02-24
+
+Bump Filament to v4.7.2
+
 ## 4.6.3 - 2026-01-31
 
 **Full Changelog**: https://github.com/filakitphp/basev4/compare/4.6.2...4.6.3
